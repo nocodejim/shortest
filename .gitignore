@@ -58,3 +58,4 @@ screenshots/
 # tarball
 *.tar.gz
 *.tgz
+.env local
